@@ -57,4 +57,4 @@ ansible.netcommon.cli_command
 
 ## Заполните README.md ответами на вопросы. Сделайте git push в ветку master. В ответе отправьте ссылку на ваш открытый репозиторий с изменённым playbook и заполненным README.md.
 
-https://github.com/AndreyPlatonov/ansible/tree/master/08-ansible-01-base
+https://github.com/AndreyPlatonov/08-01
